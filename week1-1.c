@@ -16,4 +16,4 @@ int main(void)
     }
   return 0;
 }
-페이지10
+10
