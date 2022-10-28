@@ -18,4 +18,4 @@ int main(void)
   printf("%s", str);
   return 0;
 }
-33페이지,문제5
+//33페이지,문제5
