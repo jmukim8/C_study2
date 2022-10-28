@@ -2,11 +2,11 @@
 #include <string.h>
 
 struct Address
-  {
-    char name[10];
-    char phon[20];
-    char home[50];
-  };
+ {
+   char name[10];
+   char phon[20];
+   char home[50];
+ };
 
 int main() 
 {
